@@ -1,74 +1,78 @@
-🔬 BioAI-Explorer: Integrating Biology with AI
+# 🔬 BioAI-Explorer: Integrating Biology with AI  
 
-Welcome to BioAI-Explorer, a personal journey combining my background in biotechnology and wet lab science with my growing passion for bioinformatics, data science, and AI/ML in biology. This repository is a reflection of how I’m bridging experimental biology with computational approaches to uncover insights in life sciences.
+Welcome to **BioAI-Explorer**, my personal journey of combining a background in **biotechnology and wet lab science** with my growing passion for **bioinformatics, data science, and AI/ML in biology**.  
 
-👩‍🔬 About Me
+This repository reflects how I’m bridging **experimental biology** with **computational approaches** to uncover insights in life sciences.  
 
-Hi! I’m a B.Tech Biotechnology student with a strong interest in:
+---
 
-🧬 Molecular biology & structural bioinformatics
+## 👩‍🔬 About Me  
 
-💡 Data analytics in life sciences
+Hi! I’m **Kushagra**, a **B.Tech Biotechnology student** with strong interests in:  
 
-🧪 Hands-on wet lab work and translating it into biological data analysis
+- 🧬 **Molecular Biology & Structural Bioinformatics**  
+- 💡 **Data Analytics in Life Sciences**  
+- 🧪 **Wet Lab Research** → translating experiments into datasets  
+- 🤖 **AI/ML in Biology & Healthcare**  
 
-🤖 Learning how AI & ML can revolutionize biology and healthcare
+Currently exploring how **coding + lab skills** can solve real biological problems — from **protein structure analysis** to **disease prediction models**.  
 
-I’m currently exploring how to combine coding and lab skills to work on real biological problems, from protein analysis to disease prediction models.
+---
 
-🛠️ Skills Snapshot
+## 🛠️ Skills Snapshot  
 
-🧪 Wet Lab Skills
+### 🧪 Wet Lab Skills  
+- Biomolecule (DNA/RNA/protein) quantitative & qualitative analysis  
+- Bacterial culturing & aseptic techniques  
+- Enzyme assays & protein quantification  
 
-Biomolecule quantitative and qualitative analysis
+### 💻 Computational Skills  
+- **Languages:** Python · R (beginner)  
+- **Bioinformatics Tools:** NCBI · UniProt · BLAST · PyMOL · Robetta · Galaxy  
+- **Cloud Platforms:** Google Cloud (GenAI, LLMs)  
+- **AI/ML:** Supervised learning basics · Classification models · Data preprocessing  
 
-Bacterial culturing & aseptic techniques
+---
 
-Enzyme assays & protein quantification
+## 📚 Learning Path  
 
-💻 Computational Skills
+This repo documents my journey with:  
+- 🔍 Projects in protein analysis, sequence alignment, and active site prediction  
+- 📊 Small-scale data analytics tasks using public bio datasets  
+- 📒 Notes & exercises from self-learning:  
+  - Google Cloud GenAI courses  
+  - Bioinformatics MOOCs  
+  - AI & data science crash courses  
 
-Languages: Python , R (beginner),
+---
 
-Bioinformatics Tools: NCBI, UniProt, BLAST, PyMOL, Robetta, Galaxy
+## 🚧 Projects in Progress  
 
-Cloud Platforms: Google Cloud (GenAI, LLM)
+- **Protein Mutation Impact Analyzer** 🧬  
+  Predicting functional effects of mutations using Python + NCBI datasets  
 
-AI/ML: Basics of supervised learning, classification models, data preprocessing
+- **AI for Genomics (WIP)** 🤖  
+  Building ML models for genetic sequence classification  
 
-📚 Learning Path
+- **Data from the Lab** 🧪  
+  Visualizing and analyzing experimental wet-lab results  
 
-This repo includes:
+---
 
-🔍 Projects on protein analysis, sequence alignment, and active site prediction
+## 🤝 Let’s Connect!  
 
-📊 Small-scale data analytics tasks using public biological datasets
+If you're into **bioinformatics**, **AI in biology**, or just exploring like me, let’s connect and collaborate!  
 
-📒 Notes and exercises from my self-paced learning on:
+- 📫 [LinkedIn](#) *(add your link)*  
+- 💬 Always open to feedback, collaborations, or project ideas!  
 
-Google Cloud GenAI courses
+---
 
-Bioinformatics MOOCs
+## 📌 Note  
 
-AI & data science crash courses
+This repository is part of my **continuous learning journey**.  
+Everything here is either:  
+- A **learning exercise**, or  
+- Based on **self-driven exploration**.  
 
-🚧 Projects in Progress
-
-Protein Mutation Impact Analyzer: Predicting functional effects of mutations using Python & NCBI data
-
-AI for Genomics: Using ML models for classification of genetic sequences (WIP)
-
-Data from the Lab: Visualizing experimental results from wet lab experiments
-
-🤝 Let’s Connect!
-
-If you're into bioinformatics, AI in biology, or just learning like me, feel free to connect and collaborate!
-
-📫 LinkedIn
-
-💬 Always open to feedback, collaborations, or project ideas.
-
-📌 Note
-
-This repository is part of my continuous learning. Everything shared here is either a learning exercise or based on self-driven exploration. Constructive feedback is always welcome!
-
+✅ Constructive feedback is always welcome!  
